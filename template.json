@@ -14,7 +14,8 @@
       "@emotion/styled": "^10.0.27",
       "emotion-theming": "^10.0.27",
       "@storybook/react": "^5.3.17",
-      "@storybook/preset-create-react-app": "^2.0.0"
+      "@storybook/preset-create-react-app": "^2.0.0",
+      "@storybook/addon-viewport": "^5.3.17"
     },
     "scripts": {
       "storybook": "start-storybook"
