@@ -1,6 +1,6 @@
-# cra-template-jd
+# `cra-template-jd`
 
-My custom Create React App template
+Opinionated Create React App template
 
 ## Installation
 

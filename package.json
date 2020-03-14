@@ -8,7 +8,7 @@
     "typescript"
   ],
   "main": "template.json",
-  "description": "My template for Create React App",
+  "description": "Opinionated Create React App template",
   "repository": "git@github.com:jamiedavenport/cra-template-jd.git",
   "author": "Jamie Davenport <jamiedav97@gmail.com>",
   "license": "MIT",
