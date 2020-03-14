@@ -1,8 +1,19 @@
 {
   "name": "cra-template-jd",
   "version": "1.0.0",
-  "main": "index.js",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript"
+  ],
+  "main": "template.json",
+  "description": "My template for Create React App",
   "repository": "git@github.com:jamiedavenport/cra-template-jd.git",
   "author": "Jamie Davenport <jamiedav97@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
