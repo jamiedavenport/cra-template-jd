@@ -15,7 +15,19 @@
       "emotion-theming": "^10.0.27",
       "@storybook/react": "^5.3.17",
       "@storybook/preset-create-react-app": "^2.0.0",
-      "@storybook/addon-viewport": "^5.3.17"
+      "@storybook/addon-viewport": "^5.3.17",
+      "lint-staged": "^10.0.8",
+      "prettier": "^1.19.1"
+    },
+    "husky": {
+      "hooks": {
+        "pre-commit": "lint-staged"
+      }
+    },
+    "lint-staged": {
+      "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+        "prettier --write"
+      ]
     },
     "scripts": {
       "storybook": "start-storybook"

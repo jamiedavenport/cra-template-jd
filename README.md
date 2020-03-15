@@ -12,6 +12,14 @@ npx create-react-app <app-name> --template jd
 yarn create react-app <app-name> --template jd
 ```
 
+## Linting
+
+To enable automatic linting run the following after CRA:
+
+```bash
+yarn add husky
+```
+
 ## Features
 
 * [Typescript](https://www.typescriptlang.org/)
