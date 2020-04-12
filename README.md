@@ -26,3 +26,4 @@ yarn add husky
 * [Emotion](https://emotion.sh/)
 * [Prettier](https://prettier.io/)
 * [Tailwind](https://tailwindcss.com/)
+* [GitHub Actions](https://github.com/features/actions)
