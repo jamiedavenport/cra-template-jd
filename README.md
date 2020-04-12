@@ -24,5 +24,4 @@ yarn add husky
 
 * [Typescript](https://www.typescriptlang.org/)
 * [Emotion](https://emotion.sh/)
-* [Chakra](https://chakra-ui.com/)
 * [Prettier](https://prettier.io/)
