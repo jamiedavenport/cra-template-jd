@@ -1,10 +1,7 @@
-import React from 'react';
-import { Heading } from "@chakra-ui/core";
+import React from "react";
 
 function App() {
-  return (
-    <Heading>Hello, World</Heading>
-  );
+  return <h1>Hello, World</h1>;
 }
 
 export default App;
