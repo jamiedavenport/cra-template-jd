@@ -25,3 +25,4 @@ yarn add husky
 * [Typescript](https://www.typescriptlang.org/)
 * [Emotion](https://emotion.sh/)
 * [Prettier](https://prettier.io/)
+* [Tailwind](https://tailwindcss.com/)
